@@ -1,0 +1,15 @@
+# Identifiants Wi-Fi, URL et jeton Google Sheets : jamais dans Git
+secrets.h
+
+# macOS
+.DS_Store
+
+# Contribution Aereni : clone et fichiers de travail, hors de ce dépôt
+contrib-aereni/aereni/
+contrib-aereni/_to_delete/
+contrib-aereni/*.bundle
+
+# Arduino IDE / PlatformIO
+build/
+.pio/
+.vscode/
